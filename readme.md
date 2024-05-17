@@ -1,3 +1,2 @@
 Learning
-hello
-hello odin
+hello this is basic learning project with odin.
